@@ -19,4 +19,4 @@ If you have more questions or solutions to add, feel free to **submit a pull req
 Happy coding and good luck with your interviews! ✨
 
 
-Link to the questions is (here)[https://drive.google.com/drive/folders/1smnCUfQuOTuyttXVjODq2_VUxBoD9dxh?usp=drive_link]
+Link to the questions is [here](https://drive.google.com/drive/folders/1smnCUfQuOTuyttXVjODq2_VUxBoD9dxh?usp=drive_link)
